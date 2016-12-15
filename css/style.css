@@ -1,0 +1,63 @@
+body {
+	width: 100%;
+	background-color: white;
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+nav ul {
+
+display: flex;
+justify-content: center;
+}
+
+nav li {
+border-style: solid;
+padding: 30px;
+list-style: none;
+display: flex;
+}
+
+.start{
+margin-top: 40px;
+padding-left: 20px;
+width: 100%;
+display: flex;
+justify-content: center;
+}
+
+img {
+	width: 550px;
+	height: 500px;
+}
+
+.other {
+display: flex;
+justify-content: center;
+padding-left: 40px;
+margin-top: 40px;
+}
+
+.tree {
+margin-top: 40px;
+justify-content: center;
+display: flex;
+padding-left: 40px;
+
+}
+
+.woodland {
+margin-top: 40px;
+padding-left: 40px;
+display: flex;
+justify-content: center;
+}
+.sea {
+margin-top: 40px;
+padding-left: 40px;
+display: flex;
+justify-content: center;
+}
